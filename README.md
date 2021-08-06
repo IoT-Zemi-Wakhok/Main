@@ -2,14 +2,14 @@
 
 ## 予定
 
-2021.08.09 前期最終ゼミ活動発表会  
+2021.08.09 前期最終ゼミ活動発表会  Final presentation of the first semister
 
-2021.09.01 WorkShop開催  
-2021.09.14 IoTゼミ後期キックオフ  
+2021.09.01 WorkShop
+2021.09.14 IoTゼミ後期キックオフ  Kick off!!!
 
 
-2021.12.17 第17回全日本飛行ロボットコンテスト  
-2022.02.08 4年生ゼミナール発表
+2021.12.17 第17回全日本飛行ロボットコンテスト  indoor-flight Robot contest
+2022.02.08 4年生ゼミナール発表 presentation of graduation theses
 
 ## ゼミ発表会
 2021年後期の予定は火曜日9:00～10:30として，  
@@ -29,3 +29,8 @@
 2021.10.5→2021.10.26→2021.11.16→2021.12.07→一月中にどこかで一回  
 の全5回でできることにしましょう．  
 わたしが気になっているテーマでいえば，AWSやopenflowの運用，システム検証系です．  
+
+## キャリアデザイン
+3年生は「進学」か「就職」かを選んでください．Choose your future; Going to school or getting a job
+就職の学生は，必ずインターンに参加すること．
+https://www.ryugakusei-support.com/student/intern/intern.html
