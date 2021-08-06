@@ -8,8 +8,8 @@
 2021.09.14 IoTゼミ後期キックオフ  Kick off!!!
 
 
-2021.12.17 第17回全日本飛行ロボットコンテスト  indoor-flight Robot contest
-2022.02.08 4年生ゼミナール発表 presentation of graduation theses
+2021.12.17 第17回全日本飛行ロボットコンテスト  indoor-flight Robot contest  
+2022.02.08 4年生ゼミナール発表 presentation of graduation theses  
 
 ## ゼミ発表会
 2021年後期の予定は火曜日9:00～10:30として，  
