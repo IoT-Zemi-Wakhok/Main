@@ -4,7 +4,7 @@
 
 2021.08.09 前期最終ゼミ活動発表会  Final presentation of the first semister
 
-2021.09.01 WorkShop
+2021.09.01 WorkShop  
 2021.09.14 IoTゼミ後期キックオフ  Kick off!!!
 
 
