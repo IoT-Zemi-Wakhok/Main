@@ -2,6 +2,10 @@
 IoTをテーマに稚内やネパールを取り巻く社会や環境にまつわる課題を発見・解決を行う研究をしています．  
 <img src="https://github.com/IoT-Zemi-Wakhok/Main/blob/a067a014e212a919c748f3532ad85bd3acbb2f38/image0.jpeg" width="500">
 
+# Wiki
+導入や卒論の書き方など
+
+
 ## 予定
 
 2021.08.09 前期最終ゼミ活動発表会  Final presentation of the first semister
