@@ -1,5 +1,5 @@
 # 稚内北星学園大学IoTゼミ
-IoTをテーマに，稚内やネパールを取り巻く社会や環境にまつわる課題を発見・解決を行う研究をしています．  
+IoTをテーマに稚内やネパールを取り巻く社会や環境にまつわる課題を発見・解決を行う研究をしています．  
 <img src="https://github.com/IoT-Zemi-Wakhok/Main/blob/a067a014e212a919c748f3532ad85bd3acbb2f38/image0.jpeg" width="500">
 
 ## 予定
