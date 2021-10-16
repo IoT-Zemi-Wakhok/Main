@@ -3,7 +3,8 @@ IoTをテーマに稚内やネパールを取り巻く社会や環境にまつ�
 <img src="https://github.com/IoT-Zemi-Wakhok/Main/blob/a067a014e212a919c748f3532ad85bd3acbb2f38/image0.jpeg" width="500">
 
 # Wiki
-導入や卒論の書き方など
+導入や卒論の書き方など  
+https://github.com/IoT-Zemi-Wakhok/Main/wiki
 
 
 ## 予定
