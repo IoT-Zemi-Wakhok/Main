@@ -49,6 +49,22 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 一月中にどこかで一回  
 の全5回でできることにしましょう．
 
+### メンバーロール
+1. Aashish: Team leader/Team manager/Specification design
+2. 池田: UI design
+3. Sagar: Text translation/other works
+4. Rajan: Map cordinates to place name
+5. Sangam:  source to destination fare estimation
+
+
+7. ### ToDo
+1. Aashish: spcecification design  
+2. 池田: figmaを使ってデザイン/プロトタイプ https://www.figma.com/
+3. Sagar: Locale
+4. Rajan: 
+
+
+
 
 ## キャリアデザイン
 3年生は「進学」か「就職」かを選んでください．Choose your future; Going to school or getting a job
