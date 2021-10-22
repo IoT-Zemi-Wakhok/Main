@@ -43,7 +43,8 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 
 2021.10.05(already)→   
 (次回)2021.10.29
-
+デザインの決定，コーダーの決定  
+　
 →2021.11.19
 →2021.12.17→
 一月中にどこかで一回  
@@ -57,7 +58,8 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 5. Sangam:  source to destination fare estimation
 
 
-7. ### ToDo
+### ToDo
+
 1. Aashish: spcecification design  
 2. 池田: figmaを使ってデザイン/プロトタイプ https://www.figma.com/
 3. Sagar: Locale
