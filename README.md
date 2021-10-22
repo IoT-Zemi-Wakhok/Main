@@ -61,9 +61,8 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 1. Aashish: spcecification design  
 2. 池田: figmaを使ってデザイン/プロトタイプ https://www.figma.com/
 3. Sagar: Locale
-4. Rajan: 
-
-
+4. Rajan: learn about Google map API
+5. Sangam: make the calculator
 
 
 ## キャリアデザイン
