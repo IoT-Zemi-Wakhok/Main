@@ -34,6 +34,7 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 | 2022.02.04  | 2021.02.04  |2021.02.11? | 2021.02.11?  | 2021.02.11? |
   
 10/5 9:00-10:30 欠席者 Sangam  
+10/22 欠席者 Sagar(for intern)
 
 ## 自主ゼミ
 
