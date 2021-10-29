@@ -45,19 +45,20 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 2021.10.05(already)→   
 2021.10.29(already)→ 
 デザインの決定，コーダーの決定  
-Aashish, Rajan, 池田による発表．　
-　
+Aashish, Rajan, 池田による発表．  
+
+
 →2021.11.19
 →2021.12.17→
 一月中にどこかで一回  
 の全5回でできることにしましょう．
 
 ### メンバーロール
-1. Aashish: Team leader/Team manager/Specification design
-2. 池田: UI design
-3. Sagar: Text translation/other works
-4. Rajan: Map cordinates to place name
-5. Sangam:  source to destination fare estimation
+1. Aashish: Team leader/Team manager/Main page(Home)
+2. 池田: UI designとロゴ作成
+3. Sagar: Text translation/hiragana and Romaji with Dart
+4. Rajan: Map cordinates to place name with Dart
+5. Sangam:  source to destination fare estimation(Google map)
 
 
 ### ToDo
