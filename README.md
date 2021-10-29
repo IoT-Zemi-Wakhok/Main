@@ -43,8 +43,9 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 テーマは「**タクシーアプリ**」の作成です．
 
 2021.10.05(already)→   
-(次回)2021.10.29
+2021.10.29(already)→ 
 デザインの決定，コーダーの決定  
+Aashish, Rajan, 池田による発表．
 　
 →2021.11.19
 →2021.12.17→
