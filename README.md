@@ -45,7 +45,7 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 2021.10.05(already)→   
 2021.10.29(already)→ 
 デザインの決定，コーダーの決定  
-Aashish, Rajan, 池田による発表．
+Aashish, Rajan, 池田による発表．　
 　
 →2021.11.19
 →2021.12.17→
