@@ -15,7 +15,8 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 2021.09.14 IoTゼミ後期キックオフ  Kick off!!!  
 
 2021.10.23 研究報告「勇者はいかに魔物を見分けるか」  
-2021.11.23-26 CANDAR 2021 symposium
+2021.11.23-26 CANDAR 2021 symposium  
+***Workshop Best Poster Paper受賞****  
 
 2021.12.17 第17回全日本飛行ロボットコンテスト  indoor-flight Robot contest  
 2022.02.08 4年生ゼミナール発表 presentation of graduation theses  
