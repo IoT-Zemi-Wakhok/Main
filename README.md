@@ -41,7 +41,9 @@ https://github.com/IoT-Zemi-Wakhok/Main/wiki
 12/10 欠席者 rajan (for Rotary)
 12/23 発表なし(厳重注意) Rajan  
 
-※時間注意！！！！12/23 10:00～  
+**※時間注意！！！！**  
+12/23 10:00～  
+**22/01/13(Thi) 13:00～**  
 
 
 ## 自主ゼミ
