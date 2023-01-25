@@ -4,8 +4,7 @@ IoTをテーマに稚内やネパールを取り巻く社会や環境にまつ�
 
 # Wiki
 導入や卒論の書き方など  
-https://github.com/Harie-Lab/harie-Zemi/wiki
-
+https://github.com/IoT-Zemi-Wakhok/Main/wiki
 
 ## 予定
 
